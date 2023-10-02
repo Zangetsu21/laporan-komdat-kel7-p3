@@ -12,23 +12,24 @@
 
 
 # Instalasi
-[`^ kembali ke atas ^`](#)
+[![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
 
 
 # Konfigurasi
-[`^ kembali ke atas ^`](#)
+[![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
 
 
 # Otomatisasi
-[`^ kembali ke atas ^`](#)
+[![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
 
 
 # Cara Pemakaian
-[`^ kembali ke atas ^`](#)
+[![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
+
 
 # Pembahasan
-[`^ kembali ke atas ^`](#)
+[![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
 
 
 # Referensi
-[`^ kembali ke atas ^`](#)
+[![Kembali ke Atas](https://img.shields.io/badge/Kembali%20ke%20Atas-%E2%86%91-blue)](#)
